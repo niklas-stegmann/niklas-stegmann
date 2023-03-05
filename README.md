@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Niklas, a full-time full-stack developer</div>  
   
-- 🚗 I’m currently working on a social media app
+- 📙 I’m currently working on a website that should make learning programming as an apprentice easier.
 - 🧠 I’m currently learning Rust  
 - ⚡ Fun fact: I place the brackets in the same line!
   
